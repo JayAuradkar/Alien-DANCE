@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    
+}
+#title{
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    box-shadow: 10px 10px 10px cadetblue;
+    
+}
+h5{
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    color: blueviolet;
+    font-family: 'Comforter Brush', cursive;
+    
+}
